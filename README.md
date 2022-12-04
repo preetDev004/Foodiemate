@@ -1,6 +1,6 @@
 
 # WEB PAGE IS LIVE ON : https://restaurant-app-2dabe.web.app/
-# ----------------------------------------------------------------
+
 
 # Getting Started with Create React App
 
