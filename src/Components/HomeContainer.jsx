@@ -2,7 +2,7 @@ import React from "react";
 import Delivery from "../img/delivery.png";
 import heroBg from "../img/heroBg.png";
 import { heroData } from "../Utils/data";
-
+ 
 const HomeContainer = () => {
   return (
     <section
